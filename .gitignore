@@ -1,0 +1,11 @@
+slurm*out
+*~
+/.venv/
+/data/
+/MNIST/
+/lightning_logs/
+/*.ckpt
+/logs
+/mlruns
+hostfile
+/*.lock
